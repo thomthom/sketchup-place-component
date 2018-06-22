@@ -1,10 +1,10 @@
 {
   "name": "Place Component",
   "description": "",
-  "creator": "Unknown",
+  "creator": "Thomas Thomassen",
   "copyright": "Copyright (c) 2018",
-  "license": "None",
+  "license": "MIT",
   "product_id": "TT_PlaceComponent",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "build": "1"
 }
